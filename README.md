@@ -1,10 +1,6 @@
-### Boas vindas ao meu perfil :blue_heart
-Meu nome é Marcelo Paludetto
+### Boas vindas ao meu perfil 🕷 🕸
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-- ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
-@marcelopaludetto
+- Estou estudando na [Alura](https://www.alura.com.br)
+  
+![descrição do GIF](https://giffiles.alphacoders.com/157/15714.gif)
